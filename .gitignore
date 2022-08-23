@@ -1,0 +1,5 @@
+# Ignore the "sandbox" files & previous versions
+old/
+
+# Ignore .vscode settings
+.vscode/
